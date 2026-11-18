@@ -1,9 +1,9 @@
 # bring-humans-02-guide
 
 <!-- Make.fun badges - do not remove or change order -->
-[![make.fun badge](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![repo badge](https://make.fun/badge/bring-the-humans-02/kenstwe/bring-humans-02-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/kenstwe/bring-humans-02-guide)
-[![reward badge](https://make.fun/badge/bring-the-humans-02/kenstwe/bring-humans-02-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02/kenstwe/bring-humans-02-guide)
+[![make.fun ┬╖ bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/kenstewe/bring-humans-02-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/kenstewe/bring-humans-02-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 ---
 
